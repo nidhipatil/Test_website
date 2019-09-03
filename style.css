@@ -1,0 +1,130 @@
+
+@media screen and (min-width:768px){  
+.container{
+     height: 100vh;
+}
+
+}
+
+.nav{
+	background-color: rgb(6, 3, 54);
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+ }
+
+ .slogan{
+ 	color:white;
+ }
+
+
+ 
+.logo 
+{
+	background-size:auto;
+	height: 110px;
+	width: auto;
+	margin-left:20px;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.slogan{
+	font-size: 222%
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.row{
+	background-color:rgb(6, 3, 54);
+	color:white;
+}
+
+
+/* ------home-------------*/
+.h_link a{
+	color:white;
+	text-decoration: none;
+	font-size: 122%
+
+	}
+
+button{
+	 margin-left: -99%;
+}
+
+a{
+	color:navy;
+	font-size: 152%;
+	text-decoration: none;
+}
+.input-group a{
+font-size: 102%;
+}
+
+.nav1{
+	background-color: rgb(6, 3, 54);
+	align-items: center;
+	display: flex;
+ }
+
+  .column {
+    width: 100%;
+   }
+
+  .first {
+	  text-align: center;
+  }
+
+  .cnt{
+	  text-align: center;
+	  font-family: sans-serif;
+     }
+
+  .last{
+	  text-align: center;
+    }
+
+  .last a{
+	color:orange;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.immmg{
+
+	display: flex;
+    justify-content: center;
+}
+
+p{
+	font-size: 82%;
+
